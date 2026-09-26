@@ -1,0 +1,20 @@
+{
+  "versions": [
+    {
+      "id": "classic",
+      "name": "GoBox Classic",
+      "version": "1.0.0",
+      "launch": "GoBox.exe",
+      "files": [
+        {
+          "path": "GoBox.exe",
+          "url": "https://REPLACE-WITH-YOUR-URL/classic/GoBox.exe"
+        },
+        {
+          "path": "textures/atlas.png",
+          "url": "https://REPLACE-WITH-YOUR-URL/classic/atlas.png"
+        }
+      ]
+    }
+  ]
+}
